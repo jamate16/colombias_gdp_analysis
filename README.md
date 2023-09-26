@@ -1,6 +1,6 @@
 # Identifying Key Growth Industries: An Analysis of GDP Participation in Colombia
 
-In this project we explore growing trend of didfferent industries
+In this project we explore growing trends of different industries
 
 ## Description of the project
 
